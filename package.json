@@ -1,0 +1,22 @@
+{
+  "name": "travel-sites",
+  "version": "1.0.0",
+  "description": "for SASS reasons ",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode development --watch"
+  },
+  "author": "rajat sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.2",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^3.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
